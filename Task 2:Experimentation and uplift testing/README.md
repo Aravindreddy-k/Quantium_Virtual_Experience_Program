@@ -1,5 +1,5 @@
 <h3>Task 2-Experimentation and Uplift testing</h3><br>
-Julia has asked us to evaluate the performance of a store trial which was performed in stores 77, 86 and 88.
+Julia has asked us to evaluate the performance of a store trial which was performed in stores 77, 86 and 88.<br>
 This can be broken down by:
 1. Total sales revenue
 2. Total number of customers
